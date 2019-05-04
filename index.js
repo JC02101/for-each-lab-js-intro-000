@@ -4,3 +4,6 @@ function iterativeLog(array) {
   })
 }
 
+function iterate(element) {
+  element.forEach
+}
